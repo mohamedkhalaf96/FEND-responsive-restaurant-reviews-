@@ -5,7 +5,7 @@
 
 Student Project #6 during Google Front-End Development Nanodegree Program at Udacity
 
-[See live project](https://dominicom.github.io/restaurant-review-app/)
+[See live project](https://mohamedkhalaf96.github.io/FEND-responsive-restaurant-reviews-/)
 
 ## Table of Contents
 
